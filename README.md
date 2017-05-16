@@ -13,3 +13,7 @@ orm框架：mysqlsugar,官网地址：http://www.codeisbug.com/
 绘图库：ZKWeb.System.Drawing
 
 中文转拼音库：KingLion.WebUtils.NPinyin
+
+
+注:
+数据库脚本位于：MyBlog.Web mysql scripts 目录下
